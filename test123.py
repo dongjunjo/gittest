@@ -6,3 +6,6 @@ for i in itemlist:
         twolist.append(i)
 
 print(twolist)
+
+if 2 in twolist:
+    print("good")
